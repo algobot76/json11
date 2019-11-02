@@ -10,3 +10,7 @@ CMakeFiles
 CMakeScripts
 cmake_install.cmake
 install_manifest.txt
+
+# CLion
+.idea/
+cmake-build-debug/
